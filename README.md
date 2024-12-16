@@ -1,0 +1,2 @@
+# HeatMapSae-A-Gradient-Centric-Approach-to-Explaining-CLIP-Through-Sparse-Latent-Activations
+HeatMapSae merges gradient-based saliency methods with Sparse AutoEncoders in CLIP’s intermediate layers. By altering latent features, we track how attention maps shift, revealing mechanistic cues about which factors drive CLIP’s final similarity scores. This approach uncovers granular interpretability insights.
