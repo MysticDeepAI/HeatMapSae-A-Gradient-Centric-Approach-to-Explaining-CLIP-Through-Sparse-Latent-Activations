@@ -1,6 +1,6 @@
 # Interpretability of CLIP with Sparse AutoEncoders and Gradient-Based Visualization
 
-## Summary
+Link: [1 Part - Publication LessWrong](https://www.lesswrong.com/posts/9rG9xkrdi9ndPBiaE/part-1-enhancing-inner-alignment-in-clip-vision-transformers)
 
 This project investigates the interpretability of CLIP by combining gradient-based visualization methods (heatmaps) with Sparse AutoEncoders (SAEs) trained on intermediate layers of the Vision Transformer (ViT) architecture. Our goal is to understand how specific latent features, captured by the SAE in a chosen CLIP layer (e.g., layer 22 residual), correlate with and influence the regions highlighted by gradient-derived heatmaps.
 
@@ -28,13 +28,7 @@ By manipulating sparse latent activations—either zeroing out certain features 
 ### Actionable Explanations
 - **Fine-Grained Control:** Fine-tuning sparse latent activations may enable targeted manipulation and provide a deeper conceptual understanding of CLIP’s internal circuits.
 
-<!--## Getting Started-->
 
-<!--*(Optional: Include instructions on how to set up and run the project)*-->
-
-<!--## License-->
-
-<!--*(Optional: Include licensing information)*-->
 
 <!--## Acknowledgements-->
 
